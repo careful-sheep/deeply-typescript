@@ -1,2 +1,2 @@
 const str: string = 'hello allen';
-console.log('str', str);
+console.log('good', str);
