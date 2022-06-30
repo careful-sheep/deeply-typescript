@@ -1,0 +1,16 @@
+{
+    "name": "00-starter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "./dist/index.js",
+    "scripts": {
+        "dev": "npx tsnd --respawn --transpile-only ./src/index.ts",
+        "build": "tsc"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "tsd": "^0.21.0"
+    }
+}
