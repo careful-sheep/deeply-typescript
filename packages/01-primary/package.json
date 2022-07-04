@@ -1,0 +1,16 @@
+{
+    "name": "01-primary",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "npx tsnd --respawn --transpile-only",
+        "build": "tsc"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "tsd": "^0.22.0"
+    }
+}
