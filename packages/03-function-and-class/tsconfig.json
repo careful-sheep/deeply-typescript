@@ -1,0 +1,14 @@
+{
+    "extends": "../../tsconfig.json",
+    "compilerOptions": {
+      "rootDir": "src",
+      "outDir": "dist",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "declaration": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true
+    },
+    "include": ["src"],
+  }
+  
