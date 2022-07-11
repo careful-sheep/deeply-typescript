@@ -1,0 +1,16 @@
+{
+    "name": "04-any-unknown-never",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "npx tsnd --respawn --transpile-only",
+        "build": "tsc"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "tsnd": "^1.0.2"
+    }
+}
