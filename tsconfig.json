@@ -10,7 +10,7 @@
     "declaration": true,
     "allowUmdGlobalAccess": false,
     "outDir": "build",
-    "strictNullChecks": true,
+    "strictNullChecks": false,
     // "noImplicitAny": true,
     "sourceMap": true
   },
